@@ -1,0 +1,8 @@
+### setting json file
+/NamkiBlog/config.json
+
+### cachfile
+**/__pycache__
+
+### venv
+/venv
